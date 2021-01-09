@@ -9,10 +9,7 @@
   min-height: 0; /* 1 */
 }
 
-.img-logo{display: block!important;
-    width: 136px!important;
-    height: 100px!important;
-}
+
 
 
 .flex-none { flex: none; }

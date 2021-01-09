@@ -3786,7 +3786,7 @@
   /* Small Devices - Tablets */
   @media screen and (min-width: 768px) and (max-width: 991px) {
     /* Master Slider */
-    
+  
     .ms-fullscreen-template .ms-small-text {
       top: 30% !important;
       left: 8% !important;
@@ -3815,7 +3815,7 @@
   /* Extra Small Devices - Phones */
   @media screen and (max-width: 767px) {
     /* Master Slider */
-    
+  
     .ms-fullscreen-template .ms-small-text {
       top: 46% !important;
       left: 8% !important;
@@ -3906,6 +3906,11 @@
       margin-bottom: 20px;
     }
     
+    .img-logo{display: block!important;
+      width: 136px!important;
+      height: 100px!important;
+  }
+
     .table-cell .tt-el-tabs .el-nav .el-item::before {
       display: none;
     }
