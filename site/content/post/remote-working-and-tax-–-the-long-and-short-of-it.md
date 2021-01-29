@@ -1,0 +1,22 @@
+---
+title: Remote Working and Tax – the long and short of it
+date: 2021-01-29T10:38:46.767Z
+description: |
+  By Aditya Surana, Director, Tax Services, Consark Advisory Services LLP
+image: img/shutterstock_479851075-780x470.jpg
+---
+Year 2020 taught all of us a new way of living  and working. The pandemic forced the office to come home.  As we write, though the restrictions on outdoor movement has eased technology enabled sectors continue to embrace the WFH  or remote working policy.
+
+The obvious advantages of reduced rental costs are undisputed, but the jury is out on effect of remote working on productivity. Nevertheless, remote working, in part or whole, is a serious discussion in Board Rooms and appears to be here to stay. Many employers have provided basic office furniture  and technological equipment to make sure the employee gets the comfort of office while working remotely. At present there is no clear policy from CBDT on the treatment of  such expenditures.
+
+The new norm begs a change in the Income Tax law, to address it from two perspectives – a short term approach for an extraordinary year where such a situation was unanticipated, and the second – a long term approach on how the Government was to deal with the situation that would play out in the future, if, especially units availing some sort of tax holiday, were to make this a permanent feature in their business.
+
+Rather than let corporations take positions on their own, it would be in the fitness of things if the Budget brought in clarity to the effect that these expenses be allowed as deductions for employers, even if the assets are not physically under their control, so that the issues are not raised at a later time during assessments,  If the employee spends any sum towards the above, then then he/she should be allowed to claim the same as a deduction against his/ her taxable salary, since the employer would have in any case been eligible for the deduction  A blanket allowance may be considered for internet expenses/ mobile data expenses per month for all employees irrespective of the submission of bills for the same. Currently such expenses are allowed on reasonable basis based on submission of bills. With employees working from home, expenses for electricity, water, cleaning, stationary and similar  expenses would go up. Countries like Canada, Poland to name a few, have introduced such allowances. After all, the employer has reduced expenses on  such itemss,   not to mention pantry and recreation spaces, maintenance etc. which are linked to either headcount or  floorspace.
+
+Several countries globally like Singapore, Australia have put up FAQs to clarify tax issues that could crop up due to employees working remotely,  and a similar initiative by CBDT would go a long way in bringing in certainty, leaving no room for interpretations. The status of several non-residents who were stuck in India and have now become a resident for the FY 2020-21 for tax purposes needs to be addressed. The period for which the stay was forced on account of suspension of international travel will have to be disregarded as it was done for FY 2019-20 for stay in India during the lock down.
+
+The other question that needs to be addressed is in respect of those employers who avail of tax holiday like the SEZ benefit under Section 10AA.  Bulk of the units in SEZs are in the IT/ITeS sector and many of them would want to consider permitting a certain percentage of their workforce to work remotely on a permanent basis.  The government should make clear its position on this aspect, so that companies may evaluate their options and make informed decisions, without having to deal with surprises at a later point in time.  Particularly in respect of SEZ units, the eligibility to Customs and GST exemptions also needs to be addressed.
+
+While it is important to build in checks and balances to ensure that exemptions are not abused, a very important aspect to consider is that if measures such as remote working and the consequent saving on operational expenses makes India’s exports more competitive in the international market, then the Government must do its part by not forcing exporters into a cost structure that results in taxes being exported.
+
+*Consark is a boutique firm providing Financial, Risk and Tax advisory services. The author can be contacted on [adityas@consark.com](mailto:adityas@consark.com). Views expressed in this article are personal.*
