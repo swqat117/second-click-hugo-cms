@@ -3,24 +3,25 @@
 	<div class="mw7 center pt3">
 
 		<div class="measure-narrow center mb4">
-
+			<a href="http://www.consark.com/">
 			<img src="/img/logo-white.png" alt="Consark logo" class="db w4 center mb4 br0">
-			<p class="f3 lh-title light-gray b tc mb2">Newsletter subscribe</p>
-			<p>Get awesome news from us in your inbox every two weeks. Be the first to learn about new products.</p>
+			</a>
+			<!-- <p class="f3 lh-title light-gray b tc mb2">Newsletter subscribe</p> -->
+			<p>Consark is a multi-disciplinary professional services platform with integrated offerings ranging from corporate finance, risk advisory, tax advisory, accounting & compliance related services.</p>
 
-			{{ partial "newsletter-form" . }}
+			<!-- {{ partial "newsletter-form" . }} -->
 
 		</div>
 
 <div class="flex-ns justify-between text-align-cn">
 
 			<div>
-				<h3 class="f4 b lh-title mb1 primary"><a href="/">Consark</a></h3>
+				<!-- <h3 class="f4 b lh-title mb1 primary">Consark</a></h3> -->
 				<ul class="mb3">
 					<!-- <li><a href="/" class="link">Home</a></li> -->
 					<!-- <li><a href="/products" class="link">Our products</a></li>
 					<li><a href="/values" class="link">About</a></li> -->
-					<li><a href="/post" class="link">Blog</a></li>
+					<!-- <li><a href="/post" class="link">Blog</a></li> -->
 					<!-- <li><a href="/contact" class="link">Contact</a></li> -->
 				</ul>
 			</div>
@@ -34,12 +35,13 @@
 			</div> -->
 
 			<div>
-				<h3 class="f4 b lh-title mb2 primary">Social media</h3>
-				<ul class="mhn2">
-					{{ partial "social-icon" (dict "link" "#" "svg" "icons-facebook") }}
-					{{ partial "social-icon" (dict "link" "#" "svg" "icons-twitter") }}
-					{{ partial "social-icon" (dict "link" "#" "svg" "icons-instagram") }}
-					{{ partial "social-icon" (dict "link" "#" "svg" "icons-vimeo") }}
+				<h3 class="f4 b lh-title mb4 primary">Social media</h3>
+				<ul class="mhn1 mt3">
+					{{ partial "social-icon" (dict "link" "https://www.facebook.com/consark/" "svg" "icons-facebook") }}
+					{{ partial "social-icon" (dict "link" "https://twitter.com/ConsarkLLP" "svg" "icons-twitter") }}
+					<li class="dib ph2 raise"><a class="link bg-white black db relative br-100 pa2" href="https://www.linkedin.com/company/consark-llp/" target="blank"><img class="db" style="width: 16px;height:20px" src="/img/icons.svg" alt="linkedin" >
+					</a></li>
+					<!-- {{ partial "social-icon" (dict "link" "#" "svg" "icons-vimeo") }} -->
 				</ul>
 			</div>
 
