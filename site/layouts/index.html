@@ -5,7 +5,7 @@
 <!-- {{ partial "short-text" .Params.blurb}} -->
 
 <div class="mw7 center">
-    <h2 class="f2 b lh-title mb3 latest-stories1">Latest stories</h2>
+    <h2 class="f2 b lh-title mb3 latest-stories1">Latest Posts</h2>
     <ul class="flex-ns flex-wrap mhn1-ns pa3">
         {{ range (.Paginator 4).Pages.ByPublishDate.Reverse }}
             <div class="w-50-ns ph1-ns flex">
@@ -17,8 +17,8 @@
   </div>
 <!-- {{ partial "2-up" .Params }} -->
 
-{{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "buttonText" "Read more" "buttonLink" "/values") }}
+<!-- {{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "buttonText" "Read more" "buttonLink" "/values") }} -->
 
-{{ partial "blog" . }}
+<!-- {{ partial "blog" . }} -->
 
 {{ end }}
