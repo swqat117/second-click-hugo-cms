@@ -1,6 +1,6 @@
 ---
-title: Great coffee with a conscience
-subtitle: Support sustainable farming while enjoying a cup
+title: Blog of Consark
+subtitle: "All the latest posts and updates "
 image: img/test2.jpeg
 blurb:
   heading: Why Kaldi?
