@@ -19,4 +19,4 @@ The other question that needs to be addressed is in respect of those employers w
 
 While it is important to build in checks and balances to ensure that exemptions are not abused, a very important aspect to consider is that if measures such as remote working and the consequent saving on operational expenses makes India’s exports more competitive in the international market, then the Government must do its part by not forcing exporters into a cost structure that results in taxes being exported.
 
-*Consark is a boutique firm providing Financial, Risk and Tax advisory services. The author can be contacted on [adityas@consark.com](mailto:adityas@consark.com). Views expressed in this article are personal.*
+ *The author can be contacted on [adityas@consark.com](mailto:adityas@consark.com). Views expressed in this article are personal.*
