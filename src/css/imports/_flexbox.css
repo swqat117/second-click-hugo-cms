@@ -39,6 +39,15 @@
 .latest-stories1  { margin-left: 32px;margin-top:32px; }
 
 .test {z-index: 1;width: 100%;position: absolute!important;background-color: transparent!important;box-shadow: none!important}
+.test1{
+  position: fixed!important;
+  background-color: white!important;
+  z-index: 20000;
+  height: 60px;
+  width: 100%;
+}
+
+
 
 .justify-around  { justify-content: space-around; }
 .content-start   { align-content: flex-start; }

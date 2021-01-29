@@ -37,12 +37,12 @@
 </head>
   <body class="sans-serif">
 
-    <nav class="overflow-x-scroll overflow-x-visible-ns flex justify-between items-center center bg-white divider-grey relative test">
+    <nav id="navbar" class="test justify-between items-center center">
 
 	
-	<a href="/" class="pa3 db mr4 h-100 w3 flex-none " style="position: relative;
-    top: -20px;">
-		<img src="/img/logo.png" alt="Kaldi logo" class="br0 db mb0 w-100 "/>
+	<a href="http://www.consark.com/" class="pa3 db mr4 h-100 w3 flex-none " style="position: relative;
+    top: -10px;">
+		<img src="/img/logo.png" alt="Consark logo" class="br0 db mb2 w-100 "/>
 	</a>
 
 	
@@ -57,6 +57,7 @@
 	
 
 </nav>
+
 
 
     
@@ -90,9 +91,8 @@
             <div class="w-50-ns ph1-ns flex">
               <a href="/post/remote-working-and-tax-the-long-and-short-of-it/" class="no-underline pa3 bg-grey-1 br1 mb2 db raise w-100">
 	<h2 class="f3 b lh-title mb1 primary">Remote Working and Tax – the long and short of it</h2>
-	<p class="mid-gray lh-title mb2 f6 mt2">Fri, Jan 29, 2021</p>
 	<div class="w-60-l ph2-l">
-			<img src="img/tes.jpeg" alt="" class="mb3">
+			<p class="mid-gray lh-title mb2 f6 mt2">Fri, Jan 29, 2021</p>
 		</div>
 	<p class="mb0 f6">By Aditya Surana, Director, Tax Services, Consark Advisory Services LLP
 </p>
@@ -107,29 +107,6 @@
   </div>
 
  
-
-
-<div class="bg-grey-1 pv4">
-	<div class="ph3 mw7 center">
-
-		<div class="flex-l mhn2-l">
-			<div class="w-40-l ph2-l">
-				<h2 class="f2 b lh-title mb2">Our values</h2>
-
-				<p>Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.</p>
-			</div>
-
-			<div class="w-60-l ph2-l">
-				<img src="img/tes.jpeg" alt="" class="mb3">
-			</div>
-		</div>
-
-		<div class="tc">
-			<a href="/values" class="btn raise">Read more</a>
-		</div>
-
-	</div>
-</div>
 
 
 
@@ -165,7 +142,7 @@
 
 			
 
-			<div>
+			<div class="center">
 				<h3 class="f4 b lh-title mb4 primary">Social media</h3>
 				<ul class="mhn1 mt3">
 					<li class="dib ph2 raise">
@@ -210,4 +187,18 @@
       <script src="/main.js"></script>
     
   </body>
+  <script>
+      window.onscroll = function() {myFunction()};
+      
+      var navbar = document.getElementById("navbar");
+      var sticky = navbar.offsetTop;
+      
+      function myFunction() {
+        if (window.pageYOffset >= 260) {
+          navbar.classList.add("test1")
+        } else {
+          navbar.classList.remove("test1");
+        }
+      }
+      </script>
 </html>
