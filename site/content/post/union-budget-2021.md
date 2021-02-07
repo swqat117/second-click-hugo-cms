@@ -22,8 +22,6 @@ This budget has been presented under truly unprecedented circumstances, global a
 
 • Reliance on self-certification in GST returns, to name a few
 
-
-
 Such changes in the tax administration and implementation of the tax laws often do not get the attention they deserve though their impact is sometimes more far-reaching and sustainable than the actual changes in tax rates.
 
-As with every budget, there are fine details in the tax proposals. In our presentation, we have tried to focus on those aspects which may not necessarily be widely discussed, but which have wide application. We have refrained from covering in detail changes that are very specific such as changes in customs duties. We would be more than happy to discuss any specific provisions with the readers who may reach us using this form.
+As with every budget, there are fine details in the tax proposals. In our [presentation](https://www.dropbox.com/s/0e8bgbkgi3twedy/Consark%20Analysis%20-%20Union%20Budget%20-%202021-22.pdf?dl=0), we have tried to focus on those aspects which may not necessarily be widely discussed, but which have wide application. We have refrained from covering in detail changes that are very specific such as changes in customs duties. We would be more than happy to discuss any specific provisions with the readers who may reach us using this [form](https://forms.office.com/Pages/ResponsePage.aspx?id=ErJjWz0gxkuuC41fyOJksdrV98--ZhZBjaxJs-smiydURUFZN0hGMTlRUTRSSURVMTVJUEVTWEFYMC4u).
