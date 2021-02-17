@@ -1,6 +1,7 @@
 ---
-title: "Bulletin"
-image: /img/about-jumbotron.jpg
+title: "Consark Bulletin"
+subtitle: "Catch all the latest news and updates"
+image: /img/image-article2.jpg
 values:
   - heading: "Shade-grown coffee"
     text: >
@@ -10,6 +11,7 @@ values:
       forest-like structure of shade coffee farms provides habitat for
       a great number of migratory and resident species.
     imageUrl: "/img/about-shade-grown.jpg"
+    type: "tax"
   - heading: "Single origin"
     text: >
       Single-origin coffee is coffee grown within a single known
@@ -18,6 +20,7 @@ values:
       the coffee is then usually the place it was grown to whatever
       degree available.
     imageUrl: "/img/about-single-origin.jpg"
+    type: "tax"
   - heading: "Sustainable farming"
     text: >
       Sustainable agriculture is farming in sustainable ways based on
@@ -26,6 +29,7 @@ values:
       grows where and how it is grown are a matter of choice and
       careful consideration for nature and communities.
     imageUrl: "/img/about-sustainable-farming.jpg"
+    type: "tax"
   - heading: "Direct sourcing"
     text: >
       We want to truly empower the communities that bring amazing
@@ -34,6 +38,7 @@ values:
       grown. You can see the communities grow and learn more about
       coffee farming on our blog.
     imageUrl: "/img/about-direct-sourcing.jpg"
+    type: "tax"
   - heading: "Reinvest profits"
     text: >
       We want to truly empower the communities that bring amazing
@@ -42,4 +47,5 @@ values:
       grown. You can see the communities grow and learn more about
       coffee farming on our blog.
     imageUrl: "/img/about-reinvest-profits.jpg"
+    type: "tax"
 ---

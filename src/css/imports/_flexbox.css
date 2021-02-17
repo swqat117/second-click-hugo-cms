@@ -37,7 +37,8 @@
 .text-align-cn   { text-align: center; }
 .latest-stories  { text-align: center;margin-top:32px; }
 .latest-stories1  { margin-left: 32px;margin-top:32px; }
-
+.latest-stories2  { margin-left: 10px;margin-top:10px; }
+.filter { background-color: yellowgreen;border-radius: 10px;padding: 4px;color: #fff;font-size: 15px!important}
 .test {z-index: 1;width: 100%;position: absolute!important;background-color: transparent!important;box-shadow: none!important}
 .test1{
   position: fixed!important;
